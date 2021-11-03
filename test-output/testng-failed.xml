@@ -7,7 +7,7 @@
         <methods>
           <include name="LaunchApplicationURL"/>
           <include name="setUpClass"/>
-          <include name="feature" invocation-numbers="1"/>
+          <include name="feature"/>
           <include name="CloseApplicationURL"/>
           <include name="tearDownClass"/>
         </methods>
